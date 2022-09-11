@@ -1,1 +1,1 @@
-echo permission
+directories permission
